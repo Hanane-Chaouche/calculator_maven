@@ -1,16 +1,5 @@
 package com.example;
 
-public class Calculator
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
-}
-
-
-package com.example;
-
 public class Calculator {
     public int add(int a, int b) {
         return a + b;
